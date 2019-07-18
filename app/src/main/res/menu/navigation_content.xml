@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:icon="@drawable/ic_file_download_black_24dp"
+        android:id="@+id/action_downloadallstatuses"
+        android:title="Download All Status" />
+
+    <item
+        android:title="Delete All Status"
+        android:id="@+id/action_deleteallstatuses"
+        android:icon="@drawable/ic_delete_black_24dp" />
+
+    <item
+        android:icon="@drawable/ic_share_black_24dp"
+        android:id="@+id/action_shareapp"
+        android:title="Share" />
+
+    <item
+        android:title="Rate this App :)"
+        android:id="@+id/action_ratethisapp"
+        android:icon="@drawable/ic_thumb_up_black_24dp" />
+
+</menu>

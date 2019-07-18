@@ -1,0 +1,73 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.whatsappstatusdownloader.jayanthl.statusdownloaderwhatsapp.MainActivity">
+
+    <item
+        android:id="@+id/action_howto"
+        android:title="How to Use ?"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:title="Share the App"
+        android:id="@+id/action_mainshare"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:id="@+id/action_mainrateus"
+        android:title="Rate us :)" />
+
+    <item
+        android:title="Download All"
+        android:id="@+id/action_downloadall"
+        app:showAsAction="never">
+
+        <menu>
+            <item
+                android:title="Download Images"
+                android:id="@+id/action_downloadallimages"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_downloadallvideos"
+                android:title="Download Videos"
+                app:showAsAction="never"/>
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/action_privacypolicy"
+        android:title="Privacy Policy"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:title="About"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_deleteall"
+        android:title="Delete All"
+        app:showAsAction="never" >
+
+        <menu>
+            <item
+                android:id="@+id/action_deleteallimages"
+                android:title="Delete Images"
+                app:showAsAction="never" />
+
+            <item
+                android:title="Delete Videos"
+                android:id="@+id/action_deleteallvideos"
+                app:showAsAction="never" />
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Status Downloader WhatsApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="action_open">Open</string>
+    <string name="action_close">Close</string>
+
+    <string name="tut1">Watch status in the WhatsApp.</string>
+    <string name="tut2">Come To this App and see the detected Statuses</string>
+    <string name="tut3">Enjoy Downloading status and Re-Posting :) HAPPY STATUSING!</string>
+
+    <string name="intro">Hello Friends this App helps you to Download Your Friends WhatsApp Statuses which you like to have, Download your Friends Status, HAPPY STATUSING! </string>
+    <string name="author">Developed by : Jayanth L</string>
+    <string name="contributor">contributors: Suraj M</string>
+    <string name="app_version">App version : 2.4</string>
+
+    <string name="facebook_app_id">269273747143615</string>
+    <string name="fb_login_protocol_scheme">fb269273747143615</string>
+
+</resources>
