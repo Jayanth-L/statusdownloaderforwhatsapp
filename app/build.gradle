@@ -42,7 +42,4 @@ dependencies {
     implementation 'com.android.support:recyclerview-v7:27.1.1'
     //PhotoView Library
     implementation 'com.github.chrisbanes:PhotoView:2.1.3'
-
-    //facebook sdk
-    implementation 'com.facebook.android:facebook-android-sdk:4.34.0'
 }
