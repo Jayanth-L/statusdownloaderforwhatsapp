@@ -18,7 +18,4 @@
     <string name="contributor">contributors: Suraj M</string>
     <string name="app_version">App version : 2.4</string>
 
-    <string name="facebook_app_id">269273747143615</string>
-    <string name="fb_login_protocol_scheme">fb269273747143615</string>
-
 </resources>
